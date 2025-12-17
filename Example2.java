@@ -18,7 +18,7 @@ class Box{
 
    public void printArea(){
        int area;
-       area=2*length*width+2*length*height+2*width*height;
+       area=2(length*width+length*height+width*height);
        System.out.println("Area of the Box : "+area);
    }
 
