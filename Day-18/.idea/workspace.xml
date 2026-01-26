@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f0934b-404c-4894-8882-5fb55dbfa2ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Example3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyClass2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Example6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Day-18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Day-18.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/changeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/changeValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/value.class" beforeDir="false" afterPath="$PROJECT_DIR$/value.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -43,17 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Example.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Example.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
