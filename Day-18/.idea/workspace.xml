@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f0934b-404c-4894-8882-5fb55dbfa2ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Example6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Day-18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Day-18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Demo.executor": "Run",
     "Application.Example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
